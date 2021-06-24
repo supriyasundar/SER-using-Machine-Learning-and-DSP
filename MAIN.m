@@ -184,7 +184,7 @@ re=im2uint8(I);
 
 % % % %%%%% TRAIN THE DATASET IMAGES %%%%%
 % % %  
-% % % matlabroot='C:\Users\SPIRO-IMAGEPROCESSIN\Desktop\test\ITIMP42-DEEP_SPEECH_FINISHED\train';
+% % % matlabroot='C:\Users\IMAGEPROCESSIN\Desktop\test\DEEP_SPEECH\train';
 % % % 
 % % % Data=imageDatastore(matlabroot,'IncludeSubfolders',true,'LabelSource','foldernames');
 % % % 
